@@ -10,7 +10,7 @@
 // the cs pin of the version after v1.1 is default to D9
 // v0.9b and v1.0 is default D10
 const int SPI_CS_PIN = 9;
-const int LED=7;
+const int LED=8;
 const char ID_TX=0x70;
 const char ID_RX=0x80;//id del dispositivo
 boolean ledON=1;
